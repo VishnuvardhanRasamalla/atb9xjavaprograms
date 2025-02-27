@@ -11,3 +11,4 @@ public class Arthematicoop {
         System.out.println(a%b);
     }
 }
+
